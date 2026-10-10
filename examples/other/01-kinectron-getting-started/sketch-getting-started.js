@@ -38,7 +38,7 @@ function setup() {
 
   // Initialize Kinectron with local server address
   // Replace with your Kinectron server IP address if not running locally
-  const serverIP = '10.0.1.157';
+  const serverIP = 'a489-2600-1000-a120-a178-6e41-3458-5851-d8dc.ngrok-free.app';
   kinectron = new Kinectron(serverIP);
 
   // Set up connection event handlers
