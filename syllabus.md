@@ -146,7 +146,7 @@ Please read the following readings before coming to class. Each reading is just 
   
 #### Examples 
 
-- To come 
+- [Pose Detection Examples](examples/day-2-pose)
   
 #### Resources
 
