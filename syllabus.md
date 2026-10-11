@@ -71,7 +71,6 @@ Please read the following readings before coming to class. Each reading is just 
 - [The End of Average, Todd Rose, pages 1-9](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/end_of_avg_intro.pdf)
 
 
-
 ## Day One In Class Materials
 
 ### Rough Schedule 
@@ -86,8 +85,8 @@ Please read the following readings before coming to class. Each reading is just 
 
 - Discussion Topic: What is a body? Can it be online? Why? How? 
 - Discussion of homework readings 
-- Independent and group activity, Group Activity Board — link to come 
-- Mocap history, forms, body politics, Google Slides — link to come 
+- Independent and group activity, [Group Activity Board](https://docs.google.com/presentation/d/14iU3t-RmpN5bc9q2MUlXEpHCpjS5eoKsGdJj_-ysmWA/edit?usp=sharing) 
+- Mocap history, forms, body politics, [Google Slides](https://docs.google.com/presentation/d/1TOpoinZ2oS9zU2P-ReEtj_HxaQ_761B4VlrfM8P_7Rc/edit?usp=sharing)
 
 ### Code Block 1
 
@@ -96,7 +95,7 @@ Please read the following readings before coming to class. Each reading is just 
 
 #### Examples 
 
-- To come 
+- [Web cam examples](examples/day-1-webcam)
 
 #### Resources
 
@@ -110,7 +109,8 @@ Please read the following readings before coming to class. Each reading is just 
 
 #### Examples 
 
-- To come
+- [Kinect / Kinectron examples](examples/day-1-kinect)
+
 
 #### Additional Examples 
 
@@ -137,7 +137,7 @@ Please read the following readings before coming to class. Each reading is just 
 
 ### Theory 
 
-- Embodied interaction in the "third space" — link to come 
+- Embodied interaction in the "third space" [Google Slides](https://docs.google.com/presentation/d/1sJ4Vd6ZlwUMPAeQ3eFfkatguL00LWJLsXO679xzlBXY/edit?usp=sharing) 
 
 ### Code Block 3
 
@@ -157,9 +157,8 @@ Please read the following readings before coming to class. Each reading is just 
 
 ### Theory and Practice 
 
-- Google Slides: Site specificity — link to come 
-
-- Practice — Excercise Board — link to come 
+- [Google Slides: Site specificity](https://docs.google.com/presentation/d/180KTU7JPKgmlsCNdwS-9RZiReiaFDDdolEXk-wSSa18/edit?usp=sharing)
+- Practice — [Excercise Board](https://docs.google.com/presentation/d/1N8BDEyBj5u4TgAwGSp649GtASlks1ytW-I56r7NjG50/edit?usp=sharing)
 
 ## More resources 
 

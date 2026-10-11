@@ -157,7 +157,7 @@ function prepareMesh(colorIndex) {
 
 function initKinectron() {
   // Create kinectron with specified ip address
-  const kinectron = new Kinectron("a489-2600-1000-a120-a178-6e41-3458-5851-d8dc.ngrok-free.app");
+  const kinectron = new Kinectron("10.20.82.213");
   
   // When ready start a feed
   kinectron.on("ready", () => {
